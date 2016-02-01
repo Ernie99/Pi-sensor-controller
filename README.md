@@ -1,9 +1,9 @@
 # Raspberry Pi controller for i2c sensors, Python code
 
-## Tested on *RASPBIAN JESSIE* , *Raspberry Pi 2 Model B*, *Python 2.7*
+## Tested on *RASPBIAN JESSIE* , *Raspberry Pi 2 Model B*, *Python 3*
 
 ### installed:
-* python-smbus
+* quick2wire
 * i2c-tools
 
 ### Program to:
